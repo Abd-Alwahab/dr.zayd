@@ -1,0 +1,20 @@
+body {
+   
+    background-color: rgb(224, 222, 222);
+}
+
+section {
+
+    padding: 1rem;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.486);
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+
+}
+
+
+p {
+    font-size: 1.2rem;
+
+}
